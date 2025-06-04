@@ -1,4 +1,4 @@
-#include <SparkFun_TB6612.h>
+#include <SparkFun_TB6612.h> //Motor driver library.
 
 #define enA 5
 #define IN2 6
